@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import { Box, Flex, IconButton, Image, Text } from "@chakra-ui/react";
 import React from "react";
 import { X } from "react-bootstrap-icons";
