@@ -18,6 +18,12 @@ import PaymentCountry from './PaymentCountry';
 import PaymentProvider from './PaymentProvider';
 import PaymentProviderSelect from './PaymentProviderSelect';
 import CustomEdge from './CustomEdge';
+import StartTrigger from './Start_Trigger';
+import On_Boarding from './On_Boarding';
+import Sending_Welcome_Email from './Sending_Custom_Email';
+import Creating_Employee_Record from './Initial_Training';
+import Initial_training from './Initial_Trainning';
+import Node_Selector from './Node_Selector';
  
 
  
@@ -37,7 +43,14 @@ export default function Workflow() {
     "PaymentInit":PaymentInit,
     "paymentCountry":PaymentCountry,
     "paymentProvider":PaymentProvider,
-    "paymentProviderSelect":PaymentProviderSelect
+    "paymentProviderSelect":PaymentProviderSelect,
+    "Start_Trigger":StartTrigger,
+    "On_Boarding":On_Boarding,
+    "Sending_Welcome_Email":Sending_Welcome_Email,
+    "Creating_Employee_Record":Creating_Employee_Record,
+    "Initial_training":Initial_training,
+    "Node_Selector":Node_Selector
+
   }
 
   const edgeTypes = {
