@@ -7,7 +7,7 @@ function PaymentInit({ data:{ amount } }) {
     <Box bg="white" border={"1px solid #aa1fff"} >
        
        <Box bg="#410566" p={1}>
-        <Text fontsize="small" color="white" >
+        <Text fontSize="small" color="white" >
             Payment Initialized
         </Text>
 

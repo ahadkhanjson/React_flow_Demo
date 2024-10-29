@@ -14,7 +14,7 @@ function On_Boarding({
     <Box bg="yellow" border={"1px solid #aa1fff"} >
        
     <Box bg="yellow" p={1}>
-     <Text fontsize="small" color="red" >
+     <Text fontSize="small" color="red" >
        On Boarding Employee
      </Text>
 

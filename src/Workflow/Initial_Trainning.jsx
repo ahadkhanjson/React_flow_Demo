@@ -16,7 +16,7 @@ function Initial_training({
     <Box bg="white" border={"1px solid #aa1fff"} >
        
     <Box bg="green" p={1}>
-     <Text fontsize="small" color="white" >
+     <Text fontSize="small" color="white" >
        Initial Training
      </Text>
 
